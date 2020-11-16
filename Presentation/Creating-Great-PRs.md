@@ -1,4 +1,6 @@
 # Creating Great PRs
+## Philippe Casgrain
+### Senior Staff Software Developer, LightspeedHQ
 
 Pull Requests (PRs) are one of the fundamental building blocks of software development. In this Tech Talk, we'll go over elements of great PRs and show you how to improve your own PRs by demystifying interactive rebases and staging changes.
 
@@ -60,6 +62,12 @@ Make sure that when you add reviewers, all the commits are ready to review:
 ---
 
 # `git rebase --interactive`
-## The Swiss Army Chainsaw in your toolkit
 
+The Swiss Army Chainsaw in your toolkit
+
+![right, fit](interactive-ui.png)
+
+<!-- Here we quickly go over a UI that only a parent could love -->
+
+---
 
