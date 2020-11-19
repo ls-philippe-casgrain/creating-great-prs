@@ -40,7 +40,8 @@ You don't have to do everything that the reviewer says, in fact sometimes the re
 <!-- Break down each commit to a functional, self-contained bit of code. Each commit builds on the next one, together they tell the story of what your PR is doing.
   Remember that the reviewer is likely to come in cold. Having small digestible chunks with good commit messages is a lot easier to approach than a "wall of text".
   Refactoring commits: anything that is a commit that contains no functional changes. For instance, renaming a variable or a class, re-arranging files in a project, etc. 
-  Jira tickets are extremely important as the capture metadata about the commits, such as why we are doing this in the first place.-->
+  Jira tickets are extremely important as the capture metadata about the commits, such as why we are doing this in the first place. 
+  Hopefully can include a word about disagreements -->
   
 ---
 
@@ -66,7 +67,6 @@ Make sure that when you add reviewers, all the commits are ready to review:
 # The right tools
 
 * Git Tower
-* Sourcetree (if you must)
 * Terminal.app
 * Text editor with a command-line interface
   * `echo "EDITOR='mate -w'; export EDITOR" >> ~/.zshrc`
